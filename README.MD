@@ -1,3 +1,7 @@
+https://dtf.ru/howto/2026499-kak-polzovatsya-yt-dlp
+
+https://dtf.ru/howto/2504907-kak-polzovatsya-yt-dlp-chast-2
+
 Качалка yt-dlp
 
 Собственно
