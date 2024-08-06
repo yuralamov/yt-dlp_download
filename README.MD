@@ -13,3 +13,5 @@ ffmpeg
 https://www.gyan.dev/ffmpeg/builds/ffmpeg-git-full.7z
 
 Скачиваем, распаковываем
+
+В каталоге с yt-dlp создаем yt-dlp.conf
